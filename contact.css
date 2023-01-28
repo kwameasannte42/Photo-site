@@ -1,9 +1,10 @@
 body {
     background-color: rgb(250, 248, 248) !important;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    background-image:url(amin.png);
-    background-repeat: space;
-    background-position:bottom
+    background-image:url(pexel.jpg);
+    background-size:contain
+    
+    
     
     
   }
